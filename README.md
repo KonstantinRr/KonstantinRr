@@ -62,3 +62,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konstantinrr&show_icons=true&locale=en" alt="konstantinrr" /></p>
 
+Public key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAIWd0qF9xFvTm4kzYqtq53kwjvFsIpHFsC9vc4Xam6y konstantin.rolf@gmail.com
