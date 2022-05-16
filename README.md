@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm Konstantin</h1>
-<h3 align="center">A Fullstack and AI developer from Germany </h3>
+<h3 align="center">I'm a backend and AI developer from Germany </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
